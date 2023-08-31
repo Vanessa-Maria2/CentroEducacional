@@ -1,0 +1,17 @@
+.navbar {
+	background-color:#1e5fa1;
+}
+
+.main {
+	justify-content: center;
+}
+
+.card {
+	justify-items: center;
+}
+
+#titulo{
+	font-size: 20px;
+	text-decoration: underline;
+    text-underline-offset: 4px;
+}
